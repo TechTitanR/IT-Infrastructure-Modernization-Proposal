@@ -40,7 +40,7 @@ A cloud migration strategy is required for modernization and long-term sustainab
 ---
 
 ## 🏛 AS-IS Architecture (On-Prem Infrastructure)
-![AS-IS Architecture](as-is-architecture.png)
+![AS-IS Architecture]([as-is-architecture.png](https://github.com/TechTitanR/IT-Infrastructure-Modernization-Proposal/blob/main/AS-IS%20Architecture%20Diagram.drawio.png))
  
 
 
@@ -55,7 +55,7 @@ The existing on-premise infrastructure includes:
 ---
 
 ## ☁️ TO-BE Cloud Architecture
-![TO-BE Cloud Architecture](to-be-cloud-architecture.png)
+![TO-BE Cloud Architecture]([to-be-cloud-architecture.png](https://github.com/TechTitanR/IT-Infrastructure-Modernization-Proposal/blob/main/TO-BE%20Cloud%20Architecture%20Diagram.drawio.png))
 
 
 The proposed cloud solution includes:
