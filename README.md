@@ -40,7 +40,8 @@ A cloud migration strategy is required for modernization and long-term sustainab
 ---
 
 ## 🏛 AS-IS Architecture (On-Prem Infrastructure)
-> *(Add the image below after uploading)*  
+![AS-IS Architecture](as-is-architecture.png)
+ 
 
 
 The existing on-premise infrastructure includes:
@@ -54,7 +55,7 @@ The existing on-premise infrastructure includes:
 ---
 
 ## ☁️ TO-BE Cloud Architecture
-> *(Add the image below after uploading)*  
+![TO-BE Cloud Architecture](to-be-cloud-architecture.png)
 
 
 The proposed cloud solution includes:
